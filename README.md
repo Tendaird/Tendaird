@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tendaird
 - 👀 I’m interested in full stack software development
-- 🌱 I’m currently learning html, css 
+- 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on everything coding
 - 📫 How to reach me email:tendaird@gmail.com
 
